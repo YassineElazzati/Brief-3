@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+h1{
+  padding-top: 5%;
+  padding-left: 1%;
+}
+h2{
+  padding-top: 5%;
+  padding-left: 1.5%;
+}
+
+header img{
+  width: 50px;
+  border-radius: 40%;
+  padding-right: 10%;
+}
+
+main 
+.jeuxVideo,
+.mma{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.fifa{
+  background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png');
+  background-position: center;
+  background-size: cover;
+  width: 20%;
+  height: 400px;
+  display: flex ;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 10%;
+}
+
+.r6{
+  background-image: url('https://cdn.cdkeys.com/700x700/media/catalog/product/t/o/tom_clancy_s_rainbow_six_siege_pc_eu_.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 20%;
+  height: 400px;
+  display: flex ;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 10%;
+}
+
+.valorant{
+  background-image: url('https://www.mondespersistants.com/wp-content/uploads/2023/02/valorant-une.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 20%;
+  height: 400px;
+  display: flex ;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 10%;
+}
+
+.boxe{
+  background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png');
+  background-position: center;
+  background-size: cover;
+  width: 20%;
+  height: 400px;
+  display: flex ;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 10%;
+}
+.jjb{
+  background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png');
+  background-position: center;
+  background-size: cover;
+  width: 20%;
+  height: 400px;
+  display: flex ;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 10%;
+}
+.ufc{
+  background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png');
+  background-position: center;
+  background-size: cover;
+  width: 20%;
+  height: 400px;
+  display: flex ;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 10%;
+}
