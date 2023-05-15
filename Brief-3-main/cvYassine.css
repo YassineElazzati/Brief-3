@@ -12,12 +12,15 @@ header img{
   padding-right: 10%;
 }
 
+.vue{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 main{
   
 }
-
-
-
 
 footer{
 

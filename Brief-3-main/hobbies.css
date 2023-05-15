@@ -27,7 +27,7 @@ header img{
 
 main 
 .jeuxVideo,
-.mma{
+.sport{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -68,9 +68,16 @@ main
   justify-content: flex-end;
   border-radius: 10%;
 }
+.valorant:hover,
+.r6:hover,
+.fifa:hover{
+  background-position: center;
+  width: 100%;
+  cursor: pointer;
+}
 
 .boxe{
-  background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png');
+  background-color: antiquewhite;
   background-position: center;
   background-size: cover;
   width: 20%;
@@ -81,7 +88,7 @@ main
   border-radius: 10%;
 }
 .jjb{
-  background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png');
+  background-color: antiquewhite;
   background-position: center;
   background-size: cover;
   width: 20%;
@@ -91,8 +98,8 @@ main
   justify-content: flex-end;
   border-radius: 10%;
 }
-.ufc{
-  background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png');
+.mma{
+ background-color: antiquewhite;
   background-position: center;
   background-size: cover;
   width: 20%;
